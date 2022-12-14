@@ -1,7 +1,6 @@
-# gitignore file for this Java project
+# gitignore file for given Java project
 *.bak
 *.iml
-*.gitignore
 .idea/
-.out/*
+.out/*/*/
 
