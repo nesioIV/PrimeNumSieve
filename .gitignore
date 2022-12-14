@@ -1,7 +1,7 @@
 # gitignore file for this Java project
 *.bak
 *.iml
-.gitignore
+*.gitignore
 .idea/
 .out/*
 
